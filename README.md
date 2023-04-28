@@ -1,2 +1,2 @@
-# EDA_Daibatics
-Exploratory Data analysis of Diabatics data 
+# EDA_Daibatics using Python
+Exploratory Data analysis of Diabatics data using Python
